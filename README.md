@@ -45,7 +45,6 @@
 | Repository | Description |
 |------------|-------------|
 | [`k8s_practice`](https://github.com/KavitaJadhav/k8s_practice) | Hands-on Kubernetes practice |
-| [`k3_learning`](#) | Lightweight Kubernetes / container orchestration projects |
 | [`k6_learning`](https://github.com/KavitaJadhav/k6_learning) | Load testing & monitoring with k6, Grafana, Prometheus |
 
 ### 🏗️ System Design & Clean Code
@@ -65,8 +64,3 @@
 - LeetCode: [https://leetcode.com/u/jadhavkavita206/](https://leetcode.com/u/jadhavkavita206/)
 
 ---
-
-## ⚡ Tips for Recruiters & Collaborators
-- All repos include **clear READMEs**, run instructions, and topics  
-- Frequent commits indicate **active learning and maintenance**  
-- Tags and topics include: `Java`, `Ruby`, `Spring-Boot`, `Kubernetes`, `DSA`, `System-Design`, `DevOps`, `AI`, `Design-Patterns`
