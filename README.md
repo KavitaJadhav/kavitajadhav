@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Kavita 👋
 
-<!--
-**KavitaJadhav/kavitajadhav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Engineer | Backend | Distributed Systems  
+☁️ AWS | Kubernetes | Observability (Prometheus, Grafana, Splunk)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I’m focused on
+- Data Structures & Algorithms (LeetCode / NeetCode)
+- System Design (scalable backend systems)
+- Cloud & DevOps (AWS, Kubernetes)
+
+---
+
+## 🧠 Projects
+
+### 🔹 Kubernetes Monitoring Stack
+- Built monitoring using Prometheus + Grafana
+- Collected metrics, built dashboards, alerts
+- Deployed on Kubernetes cluster
+
+### 🔹 DSA Patterns Repository
+- 90+ LeetCode problems organized by patterns
+- Clean Java implementations + notes
+- Focus: Google/Waymo interview prep
+
+---
+
+## 📈 GitHub Stats
+(Add GitHub stats badge)
+
+---
+
+## 🔗 Connect with me
+- LinkedIn: (add)
+- Portfolio: (your Canva site)
